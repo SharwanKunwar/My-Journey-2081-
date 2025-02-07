@@ -1,20 +1,43 @@
 # 📌 Daily Progress & Self-Development Tracker
 
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  table {
+    margin: auto; /* Centering table */
+  }
+
+  td {
+    text-align: center;
+    padding: 20px;
+  }
+
+  img {
+    width: 400px;
+    border-radius: 20px; /* Rounded corners */
+    box-shadow: 10px 10px 30px rgba(135, 206, 250, 0.6); /* Sky blue shadow */
+  }
+</style>
+
 <table>
   <tr>
-    <td style="width: 100%; padding-right: 20px; padding-left: 20px">
-      <img  src="./krishna.jpg" alt="My Image" width="400" />
+    <td>
+      <img src="./krishna.jpg" alt="My Image" />
     </td>
-    
   </tr>
-<tr>
-<td style="width: 50%; padding-left: 20px;">
-Welcome to my GitHub!
-This repository serves as a daily tracker to remind me of my goals, progress, and self-improvement journey.
-It helps me stay consistent, disciplined, and motivated every day.
+  <tr>
+    <td>
+      Welcome to my GitHub!  
+      This repository serves as a daily tracker to remind me of my goals, progress, and self-improvement journey.  
+      It helps me stay consistent, disciplined, and motivated every day.
     </td>
-</tr>
+  </tr>
 </table>
+
 
 ---
 
