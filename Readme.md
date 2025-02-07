@@ -24,11 +24,21 @@ Welcome to my GitHub! This repository serves as a daily tracker to remind me of 
 
 ## 📅 Progress Tracking
 
-| Date       | Task Completed | Learning Outcome |
-| ---------- | -------------- | ---------------- |
-| YYYY-MM-DD | Task Name      | Key Takeaways    |
+## 💻 Programming & Coding
 
-*(I will update this table daily to track my progress and learning.)*
+| Date <br/>StartingFrom(2081) | Task01      | Task02 | Task03     | Day  | Remark |
+|------------------------------|-------------|--------|------------|------|--------|
+| 2081-10-25                   | Das in Java | Method | 5 Question | [01] | ✅      |
+
+## 📚 Academic Study
+
+| Date StartingFrom(2081) | CFA                       | Digital_Logic       | Math       | Sociology | English       | Day  | Remark  |
+|-------------------------|---------------------------|---------------------|------------|-----------|---------------|------|---------|
+| 2081-10-25              | Introduction_to Computers | Sequential Circuits | Derivative | Family    | VR Technology | [01] | ✅       |
+
+
+
+*(I will update these tables daily to track my progress and learning.)*
 
 ---
 
