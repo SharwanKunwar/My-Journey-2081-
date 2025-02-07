@@ -43,7 +43,7 @@ It helps me stay consistent, disciplined, and motivated every day.
 
 | Date <br/>StartingFrom(2081) | Task01                             | Task02      | Task03     | Day  | Status |
 |------------------------------|------------------------------------|-------------|------------|------|--------|
-| 2081-10-25                   | Das in Java                        | Methods     | 5 Question | [01] | ✅      |
+| 2081-10-25                   | DSA in Java                        | Methods     | 5 Question | [01] | ✅      |
 
 
 *(I will update these tables daily to track my progress and learning.)*
