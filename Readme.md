@@ -26,15 +26,24 @@ Welcome to my GitHub! This repository serves as a daily tracker to remind me of 
 
 ## 💻 Programming & Coding
 
-| Date <br/>StartingFrom(2081) | Task01      | Task02 | Task03     | Day  | Remark |
-|------------------------------|-------------|--------|------------|------|--------|
-| 2081-10-25                   | Das in Java | Method | 5 Question | [01] | ✅      |
+| Date <br/>StartingFrom(2081) | Task01                             | Task02      | Task03     | Day  | Status |
+|------------------------------|------------------------------------|-------------|------------|------|--------|
+| 2081-10-25                   | Das in Java                        | Methods     | 5 Question | [01] | ✅      |
+
+
+
+
+
+<br>
+<hr>
+
 
 ## 📚 Academic Study
 
-| Date StartingFrom(2081) | CFA                       | Digital_Logic       | Math       | Sociology | English       | Day  | Remark  |
-|-------------------------|---------------------------|---------------------|------------|-----------|---------------|------|---------|
-| 2081-10-25              | Introduction_to Computers | Sequential Circuits | Derivative | Family    | VR Technology | [01] | ✅       |
+| Date StartingFrom(2081) | CFA                       | Digital_Logic                        | Math       | Sociology | English       | Day  | Status |
+|-------------------------|---------------------------|--------------------------------------|------------|-----------|---------------|------|--------|
+| 2081-10-25              | Introduction_to Computers | Sequential Circuits                  | Derivative | Family    | VR Technology | [01] | ✅      |
+
 
 
 
