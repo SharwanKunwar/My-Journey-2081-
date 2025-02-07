@@ -4,18 +4,13 @@
 ###
 
 <p align="center">
-  <img src="./img02_krishna.png" alt="My Image" width="600">
+  <img src="./img02_krishna.png" alt="My Image" width="578">
 </p>
-
 
 ---
 Welcome to my GitHub!  
 This repository serves as a daily tracker to remind me of my goals, progress, and self-improvement journey.  
 It helps me stay consistent, disciplined, and motivated every day.
-
-
-
-
 ---
 
 
