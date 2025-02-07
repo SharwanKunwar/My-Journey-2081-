@@ -22,6 +22,9 @@ It helps me stay consistent, disciplined, and motivated every day.
 
 > "Success is the sum of small efforts, repeated day in and day out." – Robert Collier
 
+> "It does not matter how slowly you go as long as you do not stop." – Confucius
+
+
 *(I will update this section daily with a new quote to inspire myself and others.)*
 
 ---
