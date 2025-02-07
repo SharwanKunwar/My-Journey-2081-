@@ -1,12 +1,5 @@
 # 📌 Daily Progress & Self-Development Tracker
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
-  
-  * {
-    font-family: 'Poppins', sans-serif;
-  }
-</style>
 
 <p align="center">
   <img src="./img02_krishna.png" alt="My Image" width="778">
