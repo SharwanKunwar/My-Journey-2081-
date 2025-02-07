@@ -4,8 +4,7 @@
 ###
 
 <p align="center">
-  <img src="./krishna.jpg" alt="My Image" width="400" 
-       style="border-radius: 20px; box-shadow: 10px 10px 30px rgba(135, 206, 250, 0.6);">
+  <img src="./img02_krishna.png" alt="My Image" width="400">
 </p>
 
 
