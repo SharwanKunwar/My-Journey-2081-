@@ -31,11 +31,10 @@ Welcome to my GitHub! This repository serves as a daily tracker to remind me of 
 | 2081-10-25                   | Das in Java                        | Methods     | 5 Question | [01] | ✅      |
 
 
-
+*(I will update these tables daily to track my progress and learning.)*
 
 
 <br>
-<hr>
 
 
 ## 📚 Academic Study
