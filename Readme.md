@@ -1,17 +1,27 @@
 # 📌 Daily Progress & Self-Development Tracker
 
-
-###
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+  
+  * {
+    font-family: 'Poppins', sans-serif;
+  }
+</style>
 
 <p align="center">
-  <img src="./img02_krishna.png" alt="My Image" width="578">
+  <img src="./img02_krishna.png" alt="My Image" width="778">
 </p>
 
 ---
+
+<span style="font-family: 'Poppins', sans-serif; font-size: 16px;">
 Welcome to my GitHub!  
 This repository serves as a daily tracker to remind me of my goals, progress, and self-improvement journey.  
 It helps me stay consistent, disciplined, and motivated every day.
+</span>
+
 ---
+
 
 
 
