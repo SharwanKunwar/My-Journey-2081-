@@ -39,9 +39,10 @@ It helps me stay consistent, disciplined, and motivated every day.
 
 ## 💻 Programming & Coding
 
-| Date <br/>StartingFrom(2081) | Task01                             | Task02      | Task03     | Day  | Status |
-|------------------------------|------------------------------------|-------------|------------|------|--------|
-| 2081-10-25                   | DSA in Java                        | Methods     | 5 Question | [01] | ✅      |
+| Date <br/>StartingFrom(2081) | Task01                             | Task02      | Task03                                                                                               | Day  | Status |
+|------------------------------|------------------------------------|-------------|------------------------------------------------------------------------------------------------------|------|--------|
+| 2081-10-25                   | DSA in Java                        | Methods     | [5 Questions](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-/tree/main/Methods)| [01] | ✅      | 
+
 
 
 *(I will update these tables daily to track my progress and learning.)*
