@@ -1,8 +1,21 @@
 # 📌 Daily Progress & Self-Development Tracker
 
-Welcome to my GitHub! This repository serves as a daily tracker to remind me of my goals, progress, and self-improvement journey. It helps me stay consistent, disciplined, and motivated every day.
+<table>
+  <tr>
+    <td style="width: 50%; padding-right: 20px;">
+      <img src="./krishna.jpg" alt="My Image" width="336" />
+    </td>
+    <td style="width: 50%; padding-left: 20px;">
+Welcome to my GitHub!
+This repository serves as a daily tracker to remind me of my goals, progress, and self-improvement journey.
+It helps me stay consistent, disciplined, and motivated every day.
+    </td>
+  </tr>
+</table>
 
 ---
+
+
 
 ## 🚀 Daily Quote
 
@@ -21,7 +34,6 @@ Welcome to my GitHub! This repository serves as a daily tracker to remind me of 
 - 💪 Develop a strong mindset for growth and self-improvement.
 
 ---
-
 ## 📅 Progress Tracking
 
 ## 💻 Programming & Coding
