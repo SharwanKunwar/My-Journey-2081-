@@ -140,10 +140,28 @@ and all in all, it's been a fulfilling day of growth and progress!
 
 I want to thank myself for the effort I've put into today,
 and I also want to thank Mahakal for guiding me through this journey.
-Here’s to more growth ahead!"</td>
+Here’s to more growth ahead!"
+
+<Table>
+
+<tr>
+<td>Author</td>
+<td>Last Updated</td>
+<td>Time</td>
+<td>Status</td>
+</tr>
+
+<tr>
+<td>Sharwan jung kunwar</td>
+<td>2081-10-26</td>
+<td>8:08</td>
+<td>Completed</td>
+</tr>
+<br>
+</Table>
 </table>
 
+
 ---
-### **📌 Author:** Sharwan Jung Kunwar
-### **📅 Last Updated:** 2081-10-26 ||Time 8:08 
+
 
