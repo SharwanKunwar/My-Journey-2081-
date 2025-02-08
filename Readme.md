@@ -97,10 +97,50 @@ It helps me stay consistent, disciplined, and motivated every day.
 
 This README is my daily motivator. Let’s keep growing, learning, and achieving great things! 🚀
 
+<hr>
+<table><td>💌Day01</td></table>
 
-# Day01
+<table>
 
-| **Morning**                                                   | **Evening**                                                   |
-|---------------------------------------------------------------|---------------------------------------------------------------|
-| <img src="./assets/morning01.jpg" alt="My Image" width="778"> | <img src="./assets/Evening01.jpg" alt="My Image" width="778"> |
+<tr>
+
+<td align="center">** Morning Snap **</td>
+<td align="center">** Evening Snap **</td>
+
+</tr>
+
+<tr>
+
+<td><img src="./assets/morning01.jpg" alt="My Image" width="1200"></td>
+<td><img src="./assets/Evening01.jpg" alt="My Image" width="1200"></td>
+
+</tr>
+</table>
+
+<table>
+<td>"Today has been a productive and diverse learning day for me! I started the morning with Data Structures and Algorithms (DSA) in Java, diving into the concepts and practicing five questions to strengthen my understanding. Then, I moved on to Digital Logic, specifically focusing on SR latches using NOR and NAND gates, adding more depth to my knowledge.
+
+After that,
+I tackled a mathematical topic—derivatives using the first principle—gaining insight into the foundational concepts.
+My studies then took me to the evolution of computers in the CFA course,
+followed by sociology, where I explored the topic of marriage.
+
+In English, I worked through Unit 01, focusing on personal computing and processors,
+which ties in nicely with my broader technical learning.
+Later I updated my journey on GitHub, tracking my progress.
+
+Now, I'm wrapping up the day with the final documentation,
+reflecting on everything I've learned and feeling excited about tomorrow’s challenges and discoveries!
+I've covered a wide range of topics,
+balancing technical, mathematical, and theoretical areas,
+and all in all, it's been a fulfilling day of growth and progress!
+
+I want to thank myself for the effort I've put into today,
+and I also want to thank Mahakal for guiding me through this journey.
+Here’s to more growth ahead!"</td>
+</table>
+
+---
+### **📌 Author:** Sharwan Jung Kunwar
+### **📅 Last Updated:** 2081-10-26 ||Time 8:08 
 
