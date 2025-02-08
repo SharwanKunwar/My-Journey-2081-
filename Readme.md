@@ -47,7 +47,7 @@ It helps me stay consistent, disciplined, and motivated every day.
 | Date <br/>StartingFrom(2081) | Task01                             | Task02      | Task03                                                                                                | Day  | Status |
 |------------------------------|------------------------------------|-------------|-------------------------------------------------------------------------------------------------------|------|--------|
 | 2081-10-25                   | DSA in Java                        | Methods     | [5 Questions](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-/tree/main/Methods)  | [01] | ✅      |
-| 2081-10-26                   | DSA in Java                        | Methods     | [5 Questions](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-/tree/main/Methods)  | [02] |        |
+| 2081-10-26                   | DSA in Java                        | Methods     | [5 Questions](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-/tree/main/Methods)  | [02] |  ✅     |
 
 
 
@@ -59,10 +59,10 @@ It helps me stay consistent, disciplined, and motivated every day.
 
 ## 📚 [Academic Study](https://github.com/SharwanKunwar/BCA---BOOKS---CONTENT) *(click me)*
 
-| Date StartingFrom(2081) | CFA                       | Digital_Logic       | Math            | Sociology | English                                     | Day  | Status |
-|-------------------------|---------------------------|---------------------|-----------------|-----------|---------------------------------------------|------|--------|
-| 2081-10-25              | Introduction_to Computers | Sequential Circuits | Derivative      | Family    | VR Technology                               | [01] | ✅      |
-| 2081-10-26              | ---                       | ---                 | First_principle | ---       | Unit01_personal_computing and the processor | [02] |        |
+| Date StartingFrom(2081) | CFA                       | Digital_Logic         | Math            | Sociology | English                                     | Day  | Status |
+|-------------------------|---------------------------|-----------------------|-----------------|-----------|---------------------------------------------|------|--------|
+| 2081-10-25              | Introduction_to Computers | Sequential Circuits   | Derivative      | Family    | VR Technology                               | [01] | ✅      |
+| 2081-10-26              | ---                       | NOR_and_NAND SR Latch | First_principle | ---       | Unit01_personal_computing and the processor | [02] |        |
 
 
 
