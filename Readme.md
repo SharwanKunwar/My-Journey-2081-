@@ -144,7 +144,7 @@ Here’s to more growth ahead!"
 
 <Table>
 
-<tr>
+<tr bgcolor="#000">
 <td>Author</td>
 <td>Last Updated</td>
 <td>Time</td>
