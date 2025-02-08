@@ -40,7 +40,7 @@ It helps me stay consistent, disciplined, and motivated every day.
 ---
 ## 📅 Progress Tracking
 
-## 💻 [Programming & Coding](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-)
+## 💻 [Programming & Coding](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-) *(click me)*  
 
 | Date <br/>StartingFrom(2081) | Task01                             | Task02      | Task03                                                                                                | Day  | Status |
 |------------------------------|------------------------------------|-------------|-------------------------------------------------------------------------------------------------------|------|--------|
@@ -55,7 +55,7 @@ It helps me stay consistent, disciplined, and motivated every day.
 <br>
 
 
-## 📚 [Academic Study](https://github.com/SharwanKunwar/BCA---BOOKS---CONTENT)
+## 📚 [Academic Study](https://github.com/SharwanKunwar/BCA---BOOKS---CONTENT) *(click me)*
 
 | Date StartingFrom(2081) | CFA                       | Digital_Logic       | Math       | Sociology | English       | Day  | Status |
 |-------------------------|---------------------------|---------------------|------------|-----------|---------------|------|--------|
