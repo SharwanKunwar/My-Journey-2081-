@@ -40,11 +40,12 @@ It helps me stay consistent, disciplined, and motivated every day.
 ---
 ## 📅 Progress Tracking
 
-## 💻 Programming & Coding
+## 💻 [Programming & Coding](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-)
 
-| Date <br/>StartingFrom(2081) | Task01                             | Task02      | Task03                                                                                               | Day  | Status |
-|------------------------------|------------------------------------|-------------|------------------------------------------------------------------------------------------------------|------|--------|
-| 2081-10-25                   | DSA in Java                        | Methods     | [5 Questions](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-/tree/main/Methods)| [01] | ✅      | 
+| Date <br/>StartingFrom(2081) | Task01                             | Task02      | Task03                                                                                                | Day  | Status |
+|------------------------------|------------------------------------|-------------|-------------------------------------------------------------------------------------------------------|------|--------|
+| 2081-10-25                   | DSA in Java                        | Methods     | [5 Questions](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-/tree/main/Methods)  | [01] | ✅      |
+| 2081-10-26                   | DSA in Java                        | Methods     | [5 Questions](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-/tree/main/Methods)  | [02] |        |
 
 
 
@@ -54,11 +55,12 @@ It helps me stay consistent, disciplined, and motivated every day.
 <br>
 
 
-## 📚 Academic Study
+## 📚 [Academic Study](https://github.com/SharwanKunwar/BCA---BOOKS---CONTENT)
 
-| Date StartingFrom(2081) | CFA                       | Digital_Logic                        | Math       | Sociology | English       | Day  | Status |
-|-------------------------|---------------------------|--------------------------------------|------------|-----------|---------------|------|--------|
-| 2081-10-25              | Introduction_to Computers | Sequential Circuits                  | Derivative | Family    | VR Technology | [01] | ✅      |
+| Date StartingFrom(2081) | CFA                       | Digital_Logic       | Math       | Sociology | English       | Day  | Status |
+|-------------------------|---------------------------|---------------------|------------|-----------|---------------|------|--------|
+| 2081-10-25              | Introduction_to Computers | Sequential Circuits | Derivative | Family    | VR Technology | [01] | ✅      |
+| 2081-10-26              | ---                       | ---                 | ---        | ---       | ---           | [02] |        |
 
 
 
