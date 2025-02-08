@@ -57,10 +57,10 @@ It helps me stay consistent, disciplined, and motivated every day.
 
 ## 📚 [Academic Study](https://github.com/SharwanKunwar/BCA---BOOKS---CONTENT) *(click me)*
 
-| Date StartingFrom(2081) | CFA                       | Digital_Logic       | Math       | Sociology | English       | Day  | Status |
-|-------------------------|---------------------------|---------------------|------------|-----------|---------------|------|--------|
-| 2081-10-25              | Introduction_to Computers | Sequential Circuits | Derivative | Family    | VR Technology | [01] | ✅      |
-| 2081-10-26              | ---                       | ---                 | ---        | ---       | ---           | [02] |        |
+| Date StartingFrom(2081) | CFA                       | Digital_Logic       | Math       | Sociology | English                                     | Day  | Status |
+|-------------------------|---------------------------|---------------------|------------|-----------|---------------------------------------------|------|--------|
+| 2081-10-25              | Introduction_to Computers | Sequential Circuits | Derivative | Family    | VR Technology                               | [01] | ✅      |
+| 2081-10-26              | ---                       | ---                 | ---        | ---       | Unit01_personal_computing and the processor | [02] |        |
 
 
 
