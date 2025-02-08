@@ -1,5 +1,7 @@
 # 📌 Daily Progress & Self-Development Tracker
-
+<span style="font-family: 'Poppins', sans-serif; font-size: 16px;">
+कृष्णाय वासुदेवाय हरये परमात्मने, प्रणतः क्लेशनाशाय गोविंदाय नमो नमः
+</span>
 
 <p align="center">
   <img src="./img02_krishna.png" alt="My Image" width="778">
