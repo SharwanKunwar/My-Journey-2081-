@@ -28,6 +28,8 @@ It helps me stay consistent, disciplined, and motivated every day.
 
 > "Believe you can, and you're halfway there." — Theodore Roosevelt 
 
+> "Success is getting what you want. Happiness is wanting what you get." – Dale Carnegie 
+
 
 *(I will update this section daily with a new quote to inspire myself and others.)*
 
@@ -49,8 +51,9 @@ It helps me stay consistent, disciplined, and motivated every day.
 | Date <br/>StartingFrom(2081) | Task01                             | Task02      | Task03     | Day                                                                              | Status |
 |------------------------------|------------------------------------|-------------|------------|----------------------------------------------------------------------------------|--------|
 | 2081-10-25                   | DSA in Java                        | Methods     | 5 Question | [01]()                                                                           | ✅      |
-| 2081-10-26                   | DSA in Java                        | Methods     | 5 Question | [02](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day01) | ✅      |
-| 2081-10-27                   | DSA in Java                        | Methods     | 5 Question | [03]()                                                                           |   ✅    |
+| 2081-10-26                   | DSA in Java                        | Methods     | 5 Question | [02](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day02) | ✅      |
+| 2081-10-27                   | DSA in Java                        | Methods     | 5 Question | [03](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day03) | ✅      |
+| 2081-10-28                   | DSA in Java                        | Methods     | 5 Question | [03]()                                                                           |        |
 
 
 
@@ -67,6 +70,7 @@ It helps me stay consistent, disciplined, and motivated every day.
 | 2081-10-25              | Introduction_to Computers | Sequential Circuits   | Derivative      | Family    | VR Technology                               | [01]()                                                                           | ✅      |
 | 2081-10-26              | Evolution of Computers    | NOR_and_NAND SR Latch | First_principle | Marriage  | Unit01_personal_computing and the processor | [02](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day01) | ✅      |
 | 2081-10-27              | Computer Software         | ---                   | Matrix          | kinship   | ---                                         | [03]()                                                                           | ❌      |
+| 2081-10-27              | ---                       | ---                   | ---             | ---       | ---                                         | [04]()                                                                           |        |
 
 
 
