@@ -53,7 +53,7 @@ It helps me stay consistent, disciplined, and motivated every day.
 | 2081-10-25                   | DSA in Java                        | Methods     | 5 Question | [01]()                                                                           | ✅      |
 | 2081-10-26                   | DSA in Java                        | Methods     | 5 Question | [02](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day02) | ✅      |
 | 2081-10-27                   | DSA in Java                        | Methods     | 5 Question | [03](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day03) | ✅      |
-| 2081-10-28                   | DSA in Java                        | Methods     | 5 Question | [03]()                                                                           |        |
+| 2081-10-28                   | DSA in Java                        | Methods     | 5 Question | [04]()                                                                           |        |
 
 
 
@@ -65,12 +65,12 @@ It helps me stay consistent, disciplined, and motivated every day.
 
 ## 📚 [Academic Study](https://github.com/SharwanKunwar/BCA---BOOKS---CONTENT) *(click me)*
 
-| Date StartingFrom(2081) | CFA                       | Digital_Logic         | Math            | Sociology | English                                     | Day                                                                              | Status |
-|-------------------------|---------------------------|-----------------------|-----------------|-----------|---------------------------------------------|----------------------------------------------------------------------------------|--------|
-| 2081-10-25              | Introduction_to Computers | Sequential Circuits   | Derivative      | Family    | VR Technology                               | [01]()                                                                           | ✅      |
-| 2081-10-26              | Evolution of Computers    | NOR_and_NAND SR Latch | First_principle | Marriage  | Unit01_personal_computing and the processor | [02](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day01) | ✅      |
-| 2081-10-27              | Computer Software         | ---                   | Matrix          | kinship   | ---                                         | [03]()                                                                           | ❌      |
-| 2081-10-27              | ---                       | ---                   | ---             | ---       | ---                                         | [04]()                                                                           |        |
+| Date StartingFrom(2081) | CFA                       | Digital_Logic         | Math            | Sociology  | English                                     | Day                                                                              | Status |
+|-------------------------|---------------------------|-----------------------|-----------------|------------|---------------------------------------------|----------------------------------------------------------------------------------|--------|
+| 2081-10-25              | Introduction_to Computers | Sequential Circuits   | Derivative      | Family     | VR Technology                               | [01]()                                                                           | ✅      |
+| 2081-10-26              | Evolution of Computers    | NOR_and_NAND SR Latch | First_principle | Marriage   | Unit01_personal_computing and the processor | [02](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day01) | ✅      |
+| 2081-10-27              | Computer Software         | ---                   | Matrix          | kinship    | ---                                         | [03]()                                                                           | ❌      |
+| 2081-10-28              | Operating System          | Ring counter          | exercise        | Questions  | Portable computer and operating system      | [04]()                                                                           |  ✅     |
 
 
 
@@ -171,9 +171,9 @@ Here’s to more growth ahead!"
 </table>
 
 
----
+<br><br>
 
-//day02
+---
 
 ---
 
@@ -233,6 +233,58 @@ What matters to you or what you deserve? Find the way that works for you.
 <td>2081-10-27</td>
 <td>7:22</td>
 <td>Incomplete</td>
+</tr>
+<br>
+</Table>
+</table>
+
+<br><br>
+
+___
+
+## <table><td>💌Day04</td></table>
+
+<table>
+
+<tr>
+
+<td align="center">** Morning Snap **</td>
+<td align="center">** Evening Snap **</td>
+
+</tr>
+
+<tr>
+
+<td><img src="./assets/morning02.jpg" alt="My Image" width="1200"></td>
+<td><img src="./assets/Evening02.jpg" alt="My Image" width="1200"></td>
+
+</tr>
+</table>
+
+<table>
+<td>
+Today has been another fulfilling and productive day of learning! I started with Data Structures and Algorithms (DSA) in Java, practicing five problems to strengthen my problem-solving skills. Moving forward, I explored Digital Logic, where I studied ring counters. It was a bit challenging at first, but with effort, I was able to grasp the concept.
+
+Next, I shifted to mathematics, where I practiced matrix-related problems, reinforcing my understanding of linear algebra. In my CFA course, I focused on operating systems, learning about their role in managing hardware and software. Similarly, in English, I studied portable computers and operating systems, expanding my knowledge of computing technologies.
+
+For sociology, I worked on exercises related to marriage, applying what I’ve learned to deepen my understanding. After completing my studies, I updated my GitHub with today’s progress, ensuring I stay on track with my journey.
+
+As I wrap up the day, I take a moment to appreciate the effort I’ve put in and the progress I’m making. I’m grateful to myself for staying committed and to Mahakal for guiding me through this journey. Looking forward to tomorrow’s challenges and new discoveries—onward to more growth! 🚀
+</td>
+<Table>
+
+<tr bgcolor="#000">
+<td>Author</td>
+<td>Last Updated</td>
+<td>Time</td>
+<td>Status</td>
+</tr>
+
+<tr>
+<td>Sharwan jung kunwar</td>
+<td>2081-10-28</td>
+<td>8:24 PM</td>
+<td>complete</td>
 </tr>
 <br>
 </Table>
