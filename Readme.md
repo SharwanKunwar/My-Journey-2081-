@@ -30,6 +30,8 @@ It helps me stay consistent, disciplined, and motivated every day.
 
 > "Success is getting what you want. Happiness is wanting what you get." – Dale Carnegie 
 
+> "Be the change that you wish to see in the world." — Mahatma Gandhi 
+
 
 *(I will update this section daily with a new quote to inspire myself and others.)*
 
@@ -53,7 +55,8 @@ It helps me stay consistent, disciplined, and motivated every day.
 | 2081-10-25                   | DSA in Java                        | Methods     | 5 Question | [01]()                                                                           | ✅      |
 | 2081-10-26                   | DSA in Java                        | Methods     | 5 Question | [02](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day02) | ✅      |
 | 2081-10-27                   | DSA in Java                        | Methods     | 5 Question | [03](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day03) | ✅      |
-| 2081-10-28                   | DSA in Java                        | Methods     | 5 Question | [04]()                                                                           |        |
+| 2081-10-28                   | DSA in Java                        | Methods     | 3 Question | [04]()                                                                           | ✅      |
+| 2081-10-29                   | DSA in Java                        | Methods     | 5 Question | [05]()                                                                           |        |
 
 
 
@@ -65,12 +68,13 @@ It helps me stay consistent, disciplined, and motivated every day.
 
 ## 📚 [Academic Study](https://github.com/SharwanKunwar/BCA---BOOKS---CONTENT) *(click me)*
 
-| Date StartingFrom(2081) | CFA                       | Digital_Logic         | Math            | Sociology  | English                                     | Day                                                                              | Status |
-|-------------------------|---------------------------|-----------------------|-----------------|------------|---------------------------------------------|----------------------------------------------------------------------------------|--------|
-| 2081-10-25              | Introduction_to Computers | Sequential Circuits   | Derivative      | Family     | VR Technology                               | [01]()                                                                           | ✅      |
-| 2081-10-26              | Evolution of Computers    | NOR_and_NAND SR Latch | First_principle | Marriage   | Unit01_personal_computing and the processor | [02](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day01) | ✅      |
-| 2081-10-27              | Computer Software         | ---                   | Matrix          | kinship    | ---                                         | [03]()                                                                           | ❌      |
-| 2081-10-28              | Operating System          | Ring counter          | exercise        | Questions  | Portable computer and operating system      | [04]()                                                                           |  ✅     |
+| Date StartingFrom(2081) | CFA                       | Digital_Logic         | Math            | Sociology | English                                     | Day                                                                              | Status |
+|-------------------------|---------------------------|-----------------------|-----------------|-----------|---------------------------------------------|----------------------------------------------------------------------------------|--------|
+| 2081-10-25              | Introduction_to Computers | Sequential Circuits   | Derivative      | Family    | VR Technology                               | [01]()                                                                           | ✅      |
+| 2081-10-26              | Evolution of Computers    | NOR_and_NAND SR Latch | First_principle | Marriage  | Unit01_personal_computing and the processor | [02](https://github.com/SharwanKunwar/My-Journey-2081-?tab=readme-ov-file#day01) | ✅      |
+| 2081-10-27              | Computer Software         | ---                   | Matrix          | kinship   | ---                                         | [03]()                                                                           | ❌      |
+| 2081-10-28              | Operating System          | Ring counter          | exercise        | Questions | Portable computer and operating system      | [04]()                                                                           | ✅      |
+| 2081-10-29              | ---                       | ---                   | ---             | ---       | ---                                         | [05]()                                                                           |        |
 
 
 
