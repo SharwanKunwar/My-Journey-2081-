@@ -259,8 +259,8 @@ ___
 
 <tr>
 
-<td><img src="./assets/morning02.jpg" alt="My Image" width="1200"></td>
-<td><img src="./assets/Evening02.jpg" alt="My Image" width="1200"></td>
+<td><img src="./assets/morning03.jpg" alt="My Image" width="1200"></td>
+<td><img src="./assets/Evening03.jpg" alt="My Image" width="1200"></td>
 
 </tr>
 </table>
@@ -287,7 +287,7 @@ As I wrap up the day, I take a moment to appreciate the effort I’ve put in and
 <tr>
 <td>Sharwan jung kunwar</td>
 <td>2081-10-28</td>
-<td>8:24 PM</td>
+<td>6:32 PM</td>
 <td>complete</td>
 </tr>
 <br>
@@ -296,5 +296,59 @@ As I wrap up the day, I take a moment to appreciate the effort I’ve put in and
 
 
 ---
+
+## <table><td>💌Day05</td></table>
+
+<table>
+
+<tr>
+
+<td align="center">** Morning Snap **</td>
+<td align="center">** Evening Snap **</td>
+
+</tr>
+
+<tr>
+
+<td><img src="./assets/morning04.jpg" alt="My Image" width="1200"></td>
+<td><img src="./assets/Evening04.jpg" alt="My Image" width="1200"></td>
+
+</tr>
+</table>
+
+<table>
+<td>
+Today has been another fulfilling and productive day of learning! I started with Data Structures and Algorithms (DSA) in Java, practicing five problems to strengthen my problem-solving skills. Moving forward, I explored Digital Logic, where I studied ring counters. It was a bit challenging at first, but with effort, I was able to grasp the concept.
+
+Next, I shifted to mathematics, where I practiced matrix-related problems, reinforcing my understanding of linear algebra. In my CFA course, I focused on operating systems, learning about their role in managing hardware and software. Similarly, in English, I studied portable computers and operating systems, expanding my knowledge of computing technologies.
+
+For sociology, I worked on exercises related to marriage, applying what I’ve learned to deepen my understanding. After completing my studies, I updated my GitHub with today’s progress, ensuring I stay on track with my journey.
+
+As I wrap up the day, I take a moment to appreciate the effort I’ve put in and the progress I’m making. I’m grateful to myself for staying committed and to Mahakal for guiding me through this journey. Looking forward to tomorrow’s challenges and new discoveries—onward to more growth! 🚀
+</td>
+<Table>
+
+<tr bgcolor="#000">
+<td>Author</td>
+<td>Last Updated</td>
+<td>Time</td>
+<td>Status</td>
+</tr>
+
+<tr>
+<td>Sharwan jung kunwar</td>
+<td>2081-10-29</td>
+<td>6:36 PM</td>
+<td>complete</td>
+</tr>
+<br>
+</Table>
+</table>
+
+
+---
+
+
+
 
 
