@@ -68,7 +68,7 @@ It helps me stay consistent, disciplined, and motivated every day.
 <br><br>
 
 <table>
-<td>Magh</td>
+<td>Falgun</td>
 </table>
 
 | Date <br/>StartingFrom(2081) | Task01           | Task02     | Task03     | Day | Status |
