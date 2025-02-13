@@ -50,16 +50,31 @@ It helps me stay consistent, disciplined, and motivated every day.
 ---
 ## 📅 Progress Tracking
 
-## 💻 [Programming & Coding](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-) *(click me)*  
+## 💻 [Programming & Coding](https://github.com/SharwanKunwar/Data-Structure-and-algorithm-2025-) *(click me)*
 
-| Date <br/>StartingFrom(2081) | Task01      | Task02   | Task03     | Day | Status |
-|------------------------------|-------------|----------|------------|-----|--------|
-| 2081-10-25                   | DSA in Java | Methods  | 5 Question | 01  | ✅      |
-| 2081-10-26                   | DSA in Java | Methods  | 5 Question | 02  | ✅      |
-| 2081-10-27                   | DSA in Java | Methods  | 5 Question | 03  | ✅      |
-| 2081-10-28                   | DSA in Java | Methods  | 3 Question | 04  | ✅      |
-| 2081-10-29                   | DSA in Java | Methods  | 2 Question | 05  | ✅      |
-| 2081-10-30                   | c project   | + gitHub | 1 Project  | 06  | ✅      |
+<table>
+<td>Magh</td>
+</table>
+
+| Date <br/>StartingFrom(2081) | Task01           | Task02     | Task03     | Day | Status |
+|------------------------------|------------------|------------|------------|-----|--------|
+| 2081-10-25                   | DSA in Java      | Methods    | 5 Question | 01  | ✅      |
+| 2081-10-26                   | DSA in Java      | Methods    | 5 Question | 02  | ✅      |
+| 2081-10-27                   | DSA in Java      | Methods    | 5 Question | 03  | ✅      |
+| 2081-10-28                   | DSA in Java      | Methods    | 3 Question | 04  | ✅      |
+| 2081-10-29                   | DSA in Java      | Methods    | 2 Question | 05  | ✅      |
+| 2081-10-30                   | c project        | + gitHub   | 1 Project  | 06  | ✅      |
+
+<br><br>
+
+<table>
+<td>Magh</td>
+</table>
+
+| Date <br/>StartingFrom(2081) | Task01           | Task02     | Task03     | Day | Status |
+|------------------------------|------------------|------------|------------|-----|--------|
+| 2081-11-1                    | Method finished  | c project  | 1 Project  | 01  | ✅      |
+
 
 
 
@@ -71,6 +86,10 @@ It helps me stay consistent, disciplined, and motivated every day.
 
 ## 📚 [Academic Study](https://github.com/SharwanKunwar/BCA---BOOKS---CONTENT) *(click me)*
 
+<table>
+<td>Magh</td>
+</table>
+
 | Date StartingFrom(2081) | CFA                       | Digital_Logic         | Math                 | Sociology                  | English                                     | Day | Status |
 |-------------------------|---------------------------|-----------------------|----------------------|----------------------------|---------------------------------------------|-----|--------|
 | 2081-10-25              | Introduction_to Computers | Sequential Circuits   | Derivative           | Family                     | VR Technology                               | 01  | ✅      |
@@ -80,6 +99,15 @@ It helps me stay consistent, disciplined, and motivated every day.
 | 2081-10-29              | Excel                     | Shift Register        | properties of matrix | Research in social science | review unit 02                              | 05  | ✅      |
 | 2081-10-30              | lab report                | note                  | exercise             | ---                        | exercise                                    | 06  | ✅      |
 
+<br><br>
+
+<table>
+<td>Falgun</td>
+</table>
+
+| Date StartingFrom(2081) | CFA                       | Digital_Logic         | Math                 | Sociology                  | English | Day | Status |
+|-------------------------|---------------------------|-----------------------|----------------------|----------------------------|---------|-----|--------|
+| 2081-11-01              | lab report                | note                  | exercise             | ---                        | ---     | 01  |        |
 
 
 
