@@ -68,12 +68,13 @@ It helps me stay consistent, disciplined, and motivated every day.
 <br><br>
 
 <table>
-<td>Falgun</td>
+<td><Falgun></Falgun></td>
 </table>
 
 | Date <br/>StartingFrom(2081) | Task01           | Task02     | Task03     | Day | Status |
 |------------------------------|------------------|------------|------------|-----|--------|
-| 2081-11-1                    | Method finished  | c project  | 1 Project  | 01  | ✅      |
+| 2081-11-1                    | Method finished  | c project  | 1 Project  | 01  |        |
+| 2081-11-2                    | Method finished  | c project  | 1 Project  | 02  |        |
 
 
 
@@ -105,9 +106,10 @@ It helps me stay consistent, disciplined, and motivated every day.
 <td>Falgun</td>
 </table>
 
-| Date StartingFrom(2081) | CFA                       | Digital_Logic         | Math                 | Sociology                  | English | Day | Status |
-|-------------------------|---------------------------|-----------------------|----------------------|----------------------------|---------|-----|--------|
-| 2081-11-01              | lab report                | note                  | exercise             | ---                        | ---     | 01  |        |
+| Date StartingFrom(2081) | CFA        | Digital_Logic | Math                 | Sociology       | English | Day | Status |
+|-------------------------|------------|---------------|----------------------|-----------------|---------|-----|--------|
+| 2081-11-01              | lab report | ---           | exercise             | review research | ---     | 01  | ✅      |
+| 2081-11-01              | ---        | Note          | exercise             | ---             | ---     | 02  |        |
 
 
 
