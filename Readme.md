@@ -80,7 +80,7 @@ It helps me stay consistent, disciplined, and motivated every day.
 |------------------------------|----------------------------|-------------|-------------|------|--------|
 | 2081-11-1                    | Method finished            | c project   | 1 Project   | 01   | ✅      |
 | 2081-11-2                    | Types and memory           | c project   | 1 Project   | 02   | ✅      |
-| 2081-11-3                    | flowcharts and pseudocode  | c project   | 1 Project   | 03   |        |
+| 2081-11-3                    | flowcharts and pseudocode  | c project   | 1 Project   | 03   | ✅      |
 
 
 
@@ -116,7 +116,7 @@ It helps me stay consistent, disciplined, and motivated every day.
 |-------------------------|------------|---------------|----------|-----------------|---------|-----|--------|
 | 2081-11-01              | lab report | ---           | exercise | review research | ---     | 01  | ✅      |
 | 2081-11-02              | ---        | ---           | ---      | ---             | ---     | 02  | ❌      |
-| 2081-11-03              | ---        | Note          | exercise | ---             | ---     | 02  |        |
+| 2081-11-03              | ---        | Note          | exercise | ---             | ---     | 03  | ✅      |
 
 
 
