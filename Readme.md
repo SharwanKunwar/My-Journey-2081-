@@ -39,6 +39,8 @@ It helps me stay consistent, disciplined, and motivated every day.
 > "The secret of getting ahead is getting started." – Mark Twain
 
 > "What you do today can improve all your tomorrows" 
+
+> A day without laughter is a day wasted 
  
 
 
@@ -78,12 +80,13 @@ It helps me stay consistent, disciplined, and motivated every day.
 <td>Falgun</td>
 </table>
 
-| Date <br/>StartingFrom(2081) | Task01                    | Task02      | Task03      | Day | Status |
-|------------------------------|---------------------------|-------------|-------------|-----|--------|
-| 2081-11-1                    | Method finished           | c project   | 1 Project   | 01  | ✅      |
-| 2081-11-2                    | Types and memory          | c project   | 1 Project   | 02  | ✅      |
-| 2081-11-3                    | flowcharts and pseudocode | c project   | 1 Project   | 03  | ✅      |
-| 2081-11-4                    | libraryManagement         | c project   | 1 Project   | 04  |        |
+| Date <br/>StartingFrom(2081) | Task01                    | Task02        | Task03      | Day | Status |
+|------------------------------|---------------------------|---------------|-------------|-----|--------|
+| 2081-11-1                    | Method finished           | c project     | 1 Project   | 01  | ✅      |
+| 2081-11-2                    | Types and memory          | c project     | 1 Project   | 02  | ✅      |
+| 2081-11-3                    | flowcharts and pseudocode | c project     | 1 Project   | 03  | ✅      |
+| 2081-11-4                    | libraryManagement         | c project     | 1 Project   | 04  | ✅      |
+| 2081-11-5                    | DSA                       | SWITCH /METH  | 5 Questions | 05  |        |
 
 
 
@@ -115,12 +118,13 @@ It helps me stay consistent, disciplined, and motivated every day.
 <td>Falgun</td>
 </table>
 
-| Date StartingFrom(2081) | CFA        | Digital_Logic | Math     | Sociology       | English | Day | Status |
-|-------------------------|------------|---------------|----------|-----------------|---------|-----|--------|
-| 2081-11-01              | lab report | ---           | exercise | review research | ---     | 01  | ✅      |
-| 2081-11-02              | ---        | ---           | ---      | ---             | ---     | 02  | ❌      |
-| 2081-11-03              | ---        | Note          | exercise | ---             | ---     | 03  | ✅      |
-| 2081-11-04              | ---        | Note          | exercise | ---             | ---     | 04  |        |
+| Date StartingFrom(2081) | CFA        | Digital_Logic | Math                 | Sociology          | English      | Day | Status |
+|-------------------------|------------|---------------|----------------------|--------------------|--------------|-----|--------|
+| 2081-11-01              | lab report | ---           | exercise             | review research    | ---          | 01  | ✅      |
+| 2081-11-02              | ---        | ---           | ---                  | ---                | ---          | 02  | ❌      |
+| 2081-11-03              | ---        | Note          | exercise             | ---                | ---          | 03  | ✅      |
+| 2081-11-04              | ---        | Note          | exercise             | ---                | ---          | 04  | ✅      |
+| 2081-11-05              | MS-WORD    | SUBMISSION    | Analytical Geometry  | research question  | assignment   | 05  |        |
 
 
 
