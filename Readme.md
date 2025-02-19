@@ -53,7 +53,6 @@ It helps me stay consistent, disciplined, and motivated every day.
 - 🔥 Stay disciplined and consistent in coding & learning.
 - 📚 Improve my problem-solving skills and software development knowledge.
 - 🏆 Build meaningful projects and contribute to open source.
-- 📝 Document my journey, experiences, and lessons learned.
 - 💪 Develop a strong mindset for growth and self-improvement.
 
 ---
